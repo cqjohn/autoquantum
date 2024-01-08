@@ -1,0 +1,41 @@
+Experiment conducted by John Michniewicz.
+Device:W15_D68_1S26-2&1S26-3.
+This is an automatically generated log file. Refer to the JSON and qcodes dataset for additional information.
+
+
+Instruments: 
+S: HP HP3245
+T2: HP HP3245
+B1: HP HP3245
+DD: HP HP3245
+WL2: Agilent Technologies 33522B
+WL1: Agilent Technologies 33522B
+B2: Agilent Technologies 33522B
+T1: Agilent Technologies 33522B
+multi: HP HP3458A
+LCr: LECROY HDO4054A
+MW1: ANRITSU MG3692B
+MW2: ANRITSU MG3694C
+pulse: TEKTRONIX AFG3102
+Mag: OXFORD INSTRUMENTS MERCURY IPS
+
+Experiment details: 
+Original data is saved at location: data/2021-09-03/#006_EPFL+MSQT_60mK_RF_MW1=OFF_2.2GHz_1.0dB_MW2=ON_25.0GHz_6.047899999999999dB_Bfield=0.0T_Pulse=OFF_High=0.1V_Low=0.0V_Duty=50.0_Frequency=1e-06MHz_B2=offset_0.25V_amplitude_100.0mV_vs_T2=0.0-0.4V_400steps_VS=-0.00025V_WL1=2.2V_200averages_23-17-03/n
+Swept gate: T2 ,start = 0.0, end =  0.4, # of steps = 400
+This is a dispersive measurement
+Prior to running the measurement, voltages were set to: 
+S = -0.00025 V, T2 = 0.4 V, B1 = 0.0 V, B2 = 0.25 V, T1 = 0.0 V, WL1 = 2.2 V, WL2 = 0.0 V
+Magnetic field is -0.0 in z direction. Magnet status is HOLD
+MW source: MW1, Frequency = 2200.0 MHz, Power = 1.0 dBm
+MW source: MW2, Frequency = 6047.9 MHz, Power = 25.0 dBm
+Ramped Gate: B2, Offset = 0.25 V, Amplitude = 0.1 V, Phase = -90.0 deg, Averages = 200, Frequency = 30.0 Hz
+Channel 1 is MW1 I, 100.0 mV/div, pre-amplifier settings are: Gain = 1e3, Bandwidth = 1Hz - 1kHz
+Channel 2 is MW1 Q, 100.0 mV/div, pre-amplifier settings are: Gain = 5e2, Bandwidth = 1Hz - 10kHz
+Channel 3 is MW2 I, 100.0 mV/div, pre-amplifier settings are: Gain = 1e3, Bandwidth = n/a
+Channel 4 is Trigger, 100.0 mV/div, pre-amplifier settings are: Gain = n/a, Bandwidth = n/a
+Oscilloscope settings: 5.00 ms/div, # of sample points = 10kS, trigger on CH3
+Pulse: State = OFF, Function = PULS, High = 0.1 V, Low = 0.0 V, Duty = 50.0 % , Frequency = 1.0 Hz
+
+
+Measurement started at: 2021-09-03 23:17:04
+Measurement finished at: 2021-09-04 01:09:57

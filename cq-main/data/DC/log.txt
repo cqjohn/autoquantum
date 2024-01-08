@@ -1,0 +1,35 @@
+Experiment conducted by John Michniewicz.
+Device:W15_D68_1S26-2&1S26-3.
+This is an automatically generated log file. Refer to the JSON and qcodes dataset for additional information.
+
+
+Instruments: 
+S: HP HP3245
+T2: HP HP3245
+B1: HP HP3245
+DD: HP HP3245
+WL2: Agilent Technologies 33522B
+WL1: Agilent Technologies 33522B
+B2: Agilent Technologies 33522B
+T1: Agilent Technologies 33522B
+multi: HP HP3458A
+LCr: LECROY HDO4054A
+MW1: ANRITSU MG3692B
+MW2: ANRITSU MG3694C
+pulse: TEKTRONIX AFG3102
+Mag: OXFORD INSTRUMENTS MERCURY IPS
+
+Experiment details: 
+Original data is saved at location: data/2021-09-09/#015_EPFL+MSQT_230mK_DC_Bfield=0.0T_Pulse=OFF_High=0.1V_Low=0.0V_Duty=50.0_Frequency=1e-06MHz_B2=-0.1V-0.6V_700steps_S=-0.00025V_WL1=0.0V_WL2=2.2V_13-13-53/n
+Swept gate: T1 ,start = -0.1, end =  0.6, # of steps = 700
+Swept gate: B1 ,start = -0.1, end =  0.6, # of steps = 700
+This is a DC measurement
+Prior to running the measurement, voltages were set to: 
+S = 0.001 V, T2 = 0.0 V, B1 = 0.0 V, B2 = 0.0 V, T1 = 0.0 V, WL1 = 0.0 V, WL2 = 2.2 V
+Magnetic field is -0.0 in z direction. Magnet status is HOLD
+Current preamplifier is set to 10 uA/V, offset = POS 2 nA
+Pulse: State = OFF, Function = PULS, High = 0.1 V, Low = 0.0 V, Duty = 50.0 % , Frequency = 1.0 Hz
+
+
+Measurement started at: 2021-09-09 13:13:54
+Measurement finished at: 2021-09-10 17:38:15
